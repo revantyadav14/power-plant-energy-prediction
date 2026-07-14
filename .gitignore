@@ -1,0 +1,19 @@
+# Virtual environment
+env6/
+venv/
+
+# Data files
+data/*.xlsx
+data/*.pkl
+data/*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
